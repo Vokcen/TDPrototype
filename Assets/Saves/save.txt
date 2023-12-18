@@ -1,0 +1,1 @@
+{"playerMoney":212.31997680664063,"towerHealth":100.0,"waveIndex":6,"turretDataList":[{"currentLevel":1,"turretFireRate":1.0,"turretdamage":10.0},{"currentLevel":1,"turretFireRate":1.0,"turretdamage":10.0},{"currentLevel":1,"turretFireRate":1.0,"turretdamage":10.0}]}
